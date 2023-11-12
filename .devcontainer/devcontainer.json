@@ -22,10 +22,10 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"castwide.solargraph", // solargraph
-				"rebornix.Ruby", // Ruby
-				"misogi.ruby-rubocop", // Rubocop
-				"KoichiSasada.vscode-rdbg" // Ruby Debug
+				"castwide.solargraph",
+				"KoichiSasada.vscode-rdbg",
+				"Shopify.ruby-lsp",
+				"usernamehw.errorlens"
 			]
 		}
 	}
